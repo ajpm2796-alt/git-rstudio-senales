@@ -19,4 +19,17 @@ Se generó una señal senoidal de 5 Hz usando R.
 
 ## Integrante
 
+<<<<<<< HEAD
 - Alessandro
+=======
+- Alessandro
+>>>>>>> 2dea8ed7a2961717910215f3a0e3f8a845b65be9
+## Segundo ejemplo
+
+Se agregó una señal senoidal de 5 Hz con ruido gaussiano.
+
+Este análisis genera:
+
+- `scripts/02_senal_con_ruido.R`: script de la señal con ruido.
+- `datos/senal_ruidosa.csv`: tabla con la señal limpia y la señal ruidosa.
+- `figuras/senal_con_ruido.png`: gráfica comparativa entre la señal limpia y la señal con ruido.
