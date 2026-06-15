@@ -35,3 +35,11 @@ Este análisis genera:
 - `scripts/02_senal_con_ruido.R`: script de la señal con ruido.
 - `datos/senal_ruidosa.csv`: tabla con la señal limpia y la señal ruidosa.
 - `figuras/senal_con_ruido.png`: gráfica comparativa entre la señal limpia y la señal con ruido.
+
+## Reflexión final
+
+El comando que más voy a usar es `git status`, porque permite saber en qué estado se encuentra el proyecto antes de hacer cambios, commits o push.
+
+Lo que todavía me confunde es el manejo de ramas y conflictos, pero entendí que una rama permite trabajar sin modificar directamente la versión principal.
+
+La próxima vez que trabaje en equipo, antes de editar voy a ejecutar `git pull` para traer los cambios más recientes desde GitHub.
