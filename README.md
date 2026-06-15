@@ -1,7 +1,7 @@
 # git-rstudio-senales
 # Alessandro
 
-Repositorio de práctica para aprender Git, GitHub y RStudio.
+Repositorio de práctica para aprender Git, GitHub, Rstudio y control de versiones.
 
 ## Objetivo
 
