@@ -1,7 +1,9 @@
 # git-rstudio-senales
 # Alessandro
 
-Repositorio de práctica para aprender Git, GitHub y RStudio y vamos a ver que cosa
+<<<<<<< HEAD
+Repositorio de práctica para aprender control de versiones con Git y GitHub mediante análisis básicos de señales en RStudio.
+>>>>>>> d30ae66499e4595357a1ae508f65f965d237be2e
 
 ## Objetivo
 
